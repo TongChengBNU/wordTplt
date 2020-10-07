@@ -26,4 +26,5 @@ This repository contains many customized word templates.
 + 三级标题： 四号(14)黑体；
 + 正文：小四号(12)宋体，行距20磅；
 + 参考文献： 五号(10.5)宋体，行距16磅。
++ 常规默认的A4纸型bai的上下的页边du距是25.4mm、左右的页边距是31.8mm
 
